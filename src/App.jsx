@@ -9,14 +9,14 @@ function App() {
       <div className="row">
         <div className="col">
           <Cards
-            imagen = "https://lorempixel.com/150/150"
+            imagen = "https://picsum.photos/150/150"
             titulo = "Titulo Card 1"
             texto = "Texto Card 1"
           />         
         </div>
         <div className="col">
           <Cards
-            imagen = "https://lorempixel.com/150/150"
+            imagen = "https://picsum.photos/150/150"
             titulo = "Titulo Card 2"
             texto = "Texto Card 2"
           />         
